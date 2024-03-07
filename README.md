@@ -1,0 +1,2 @@
+# app
+FreightCMS Web Application
